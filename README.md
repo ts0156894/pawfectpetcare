@@ -11,4 +11,4 @@ A boarding and grooming pet business using bootstrap
 [https://ozarktechwebdev.com/tara/pawfectpetcare](https://ozarktechwebdev.com/tara/pawfectpetcare)
 
 ### Screenshot
-![Screenshot of Petcare Page](screenshot.png)
+![Screenshot of Petcare Page](img/screenshot.png)
